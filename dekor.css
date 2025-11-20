@@ -3,6 +3,14 @@
             padding: 0;
             box-sizing: border-box;
         }
+
+        head {
+            background-image: url('math-pattern.png');
+            background-repeat: no-repeat;
+            background-size: contain;
+            padding: 30px;
+        }
+
         body {
             font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
             line-height: 1.6;
